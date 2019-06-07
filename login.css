@@ -70,7 +70,7 @@
 	.already-account  a{
 
 		font-size: 12px;
-		font-weight: 600;
+		font-weight: 700;
 		color: #fff;
 		
 		padding: 14px 23px 12px 23px;
@@ -305,7 +305,7 @@
 		width:150px;
 		height: 45px;
 
-		margin-top: 20px;
+		margin: 20px;
 
 		border-radius: 25px;
 		border-color: transparent;
@@ -384,7 +384,7 @@
 
 	.or{
 		
-		top:330px;
+		top:380px;
 		
 	}
 
