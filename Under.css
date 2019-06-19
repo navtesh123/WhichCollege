@@ -1,0 +1,57 @@
+body{
+	background-color: #fff;
+	font-family: Avenir Next;
+	align-content: center;
+	text-align: center;
+	position: relative;
+	top: 30px;
+	padding: 0px;
+	    margin: 0px;
+
+}
+
+a{
+		text-decoration: none;
+	}
+
+h1,p{
+	color: #5CAB61;
+}
+
+.connect{
+	position: relative;
+	top:50px;
+	color: #333
+}
+
+.social{
+	position: relative;
+	top:50px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.social li { 
+		list-style-type: none;
+		display: inline-block;
+		text-align: center;
+		
+		font-color: #333;
+		padding: 0px;
+	    margin: 0px;
+	}
+
+.social li a{
+	padding: 0px;
+	color: #333;
+}
+
+.social li a img{
+	padding: 0px;
+	width: 35px;
+	padding: 10px;
+}
+
+.main-image img{
+	width: 100px;
+}
