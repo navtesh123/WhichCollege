@@ -1,0 +1,45 @@
+.container-blog{
+		width : 80%;
+		margin:auto;
+		/* text-align: center; */
+	}
+
+body h1,p,ul{
+			font-family: Avenir Next;
+			text-align: center;
+			margin: auto;
+			color:#4A4A4A;
+		}
+
+body h1,h3{
+		color: #5CAB61;
+	}
+
+
+a{
+	text-decoration: none;
+	color:#4A4A4A;
+
+}
+
+.link { 
+	font-weight: 600;
+	text-align: center;
+	display: block;
+	color: White;	
+  border:1px black transparent;
+  background-color: #5CAB61;
+  padding: 6px;
+  border-radius: 20px;
+}
+
+ul{
+	padding: 0;
+	list-style: none;
+}
+
+li{
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+}
